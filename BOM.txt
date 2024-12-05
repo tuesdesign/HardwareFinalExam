@@ -1,0 +1,8 @@
+1x XIAO Microcontroller
+1x Microswitch Button
+1x Piezo Buzzer
+1x Rotary Encoder
+3x RGB LED
+
+1x Body
+1x Handle
