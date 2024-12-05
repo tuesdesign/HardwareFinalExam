@@ -17,7 +17,8 @@ https://www.tinkercad.com/things/0lAiLSAcy9b/editel?returnTo=%2Fdashboard&sharec
 
 
 I used Fusion 360 to create a 3D model of the device. I created a single body part with mounting holes for all the parts. This was done to increase structural rigidity and minimize build time. 
-I wanted the large button in the middle to be made out of a squishy material, so I modeled it as part of the body - It would deform and press the micro switch underneath. It could be made out of a soft TPU or rubber.
+I wanted the large button in the middle to be made out of a squishy material, so I modeled it as part of the body - It would deform and press the micro switch underneath. It could be made out of a soft TPU or rubber. That way, you could slam the button to send the ball flying.
+
 I had some issues importing the rotary encoder. I was unable to rename the shaft part of the encoder, and it did not import the cap, so I designed a simple one.
 ![image](https://github.com/user-attachments/assets/ad7d5507-8134-499f-8b82-899fb243623f)
 
