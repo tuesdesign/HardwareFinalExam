@@ -21,3 +21,4 @@ I wanted the large button in the middle to be made out of a squishy material, so
 I had some issues importing the rotary encoder. I was unable to rename the shaft part of the encoder, and it did not import the cap, so I designed a simple one.
 ![image](https://github.com/user-attachments/assets/ad7d5507-8134-499f-8b82-899fb243623f)
 
+Future improvements I would make include diffusion caps for the LEDs, holes for the piezo buzzer, and a more advanced pizeo cap that more resembles the pointer from the game.
