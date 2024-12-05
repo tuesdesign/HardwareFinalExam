@@ -15,6 +15,7 @@ I created an electronic prototype using TinkerCad. In this example, the LEDs are
 https://www.tinkercad.com/things/0lAiLSAcy9b/editel?returnTo=%2Fdashboard&sharecode=EInS-p35oxa7BCVrA0eloDXBhGchZGWhMXeaIjozjBg
 ![image](https://github.com/user-attachments/assets/b4ced56e-dc0c-49f1-894e-8af54c81fba1)
 
+I used GrabCad to find models that I could use to create a digital prototype. I found standard parts that matched the buzzer, buttom, rotary, and LEDs used in TinkerCad, but I opted to use a XIAO Microcontroller instead of an Arduino, as it would be compatible with the game without requiring custom integration using Arduity.
 
 I used Fusion 360 to create a 3D model of the device. I created a single body part with mounting holes for all the parts. This was done to increase structural rigidity and minimize build time. 
 I wanted the large button in the middle to be made out of a squishy material, so I modeled it as part of the body - It would deform and press the micro switch underneath. It could be made out of a soft TPU or rubber. That way, you could slam the button to send the ball flying.
